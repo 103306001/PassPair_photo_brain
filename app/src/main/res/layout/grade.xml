@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+    <TextView
+        android:id="@+id/grade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="目前積分 : 0"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"/>
+    <ImageView
+        android:id="@+id/first"
+        android:src="@drawable/grade1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+    <ImageView
+        android:id="@+id/second"
+        android:src="@drawable/grade2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+    <ImageView
+        android:id="@+id/third"
+        android:src="@drawable/grade3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+    <ImageView
+        android:id="@+id/forth"
+        android:src="@drawable/grade4"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_weight="1" />
+    <ImageView
+        android:id="@+id/fifth"
+        android:src="@drawable/grade5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+</LinearLayout>

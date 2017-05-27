@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "473352649610",
+    "firebase_url": "https://passpair-ddb13.firebaseio.com",
+    "project_id": "passpair-ddb13",
+    "storage_bucket": "passpair-ddb13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473352649610:android:6b1e63ffcd7d2372",
+        "android_client_info": {
+          "package_name": "com.example.kevin.passpair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473352649610-m2ft3k187pejn9ft4k5mjgponfogp7ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kevin.passpair",
+            "certificate_hash": "13e6c41e05c783b454fbb1b774290a3237c02077"
+          }
+        },
+        {
+          "client_id": "473352649610-nv0q3cra6phj6m80hbunhatqqrvr5r21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7zojIQg37Z7WD9s1sPI9ltfFAWgD2bY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473352649610-nv0q3cra6phj6m80hbunhatqqrvr5r21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
